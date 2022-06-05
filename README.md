@@ -71,6 +71,9 @@
 <p id='object detection'></p>
 
 ### Results of training systems of neurons to object detection
+<p>
+Model name: SSD MobileNet V2 FPNLite 640x640
+</p>
 
   
   https://user-images.githubusercontent.com/101890349/160665039-59339fe3-67db-4b54-af76-8058fe94cc88.mp4
