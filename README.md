@@ -25,8 +25,7 @@
       Finding a unique solution to each problem, testing its effectiveness and finding a new solution if necessary. At the end of the process she also evaluates how
       successful she is in solving the problem. The system is written in C++ and included about 700 lines of code divided into a main program 
       (<a href='https://github.com/YakirNissim/Autonomous-Square-System/blob/master/NUVOTON%20System/main.c'>main<a>) and a secondary file 
-      (<a href='https://github.com/YakirNissim/Autonomous-Square-System/blob/master/NUVOTON%20System/Secondary%20file%20containing%20the%20functions%20
-      %20video%2C%20itrans%2C%20trans%2C%20InitPIN%2C%20InitTIMER0%2C%20InitINT_GPIO%2C%20InitUART..c'>Secondary file<a>).
+      (<a href='https://github.com/YakirNissim/Autonomous-Square-System/blob/master/NUVOTON%20System/Secondary%20file'>Secondary file<a>).
     </li>
   </ol>
 
@@ -72,7 +71,14 @@
 <p id='object detection'></p>
 
 ### Results of training systems of neurons to object detection
+<p>
+  Model name: SSD MobileNet V2 FPNLite 640x640
+</p>
+<p>
+  Results:
+</p>
 
+<img src='https://i.imgur.com/soMNlDl.jpg'/>
   
   https://user-images.githubusercontent.com/101890349/160665039-59339fe3-67db-4b54-af76-8058fe94cc88.mp4
   
